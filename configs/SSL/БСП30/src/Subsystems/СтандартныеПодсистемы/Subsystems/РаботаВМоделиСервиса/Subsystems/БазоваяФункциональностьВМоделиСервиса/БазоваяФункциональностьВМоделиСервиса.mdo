@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="2fd1287d-d96d-4480-baf7-8815ae5ffbfb">
+  <name>БазоваяФункциональностьВМоделиСервиса</name>
+  <synonym>
+    <key>ru</key>
+    <value>Базовая функциональность в модели сервиса</value>
+  </synonym>
+  <content>CommonModule.РаботаВМоделиСервиса</content>
+  <content>CommonModule.РаботаВМоделиСервисаПереопределяемый</content>
+  <content>Constant.КопироватьОбластиДанныхИзЭталонной</content>
+  <content>Constant.РежимИспользованияИнформационнойБазы</content>
+  <content>Constant.СообщениеБлокировкиПриОбновленииКонфигурации</content>
+  <content>Enum.РежимыИспользованияИнформационнойБазы</content>
+  <content>Enum.СтатусыОбластейДанных</content>
+  <content>SessionParameter.ОбластьДанныхЗначение</content>
+  <content>SessionParameter.ОбластьДанныхИспользование</content>
+  <content>CommonAttribute.ОбластьДанныхОсновныеДанные</content>
+  <content>ScheduledJob.ОбслуживаниеОбластейДанных</content>
+  <content>CommonForm.ВходВОбластьДанных</content>
+  <content>ScheduledJob.ОбновлениеОбластейДанных</content>
+  <content>CommonModule.РаботаВМоделиСервисаПовтИсп</content>
+  <content>Constant.РазмерБлокаПередачиФайла</content>
+  <content>Constant.КаталогОбменаФайламиВМоделиСервиса</content>
+  <content>Constant.КаталогОбменаФайламиВМоделиСервисаLinux</content>
+  <content>XDTOPackage.AgentScripts</content>
+  <content>XDTOPackage.Сообщения</content>
+  <content>CommonModule.СообщенияВМоделиСервисаПовтИсп</content>
+  <content>Constant.КлючОбластиДанных</content>
+  <content>XDTOPackage.УправлениеПриложениями</content>
+  <content>InformationRegister.УдалитьРейтингАктивностиОбластейДанных</content>
+  <content>InformationRegister.УдалитьОбластиДанных</content>
+  <content>Constant.ПредставлениеОбластиДанных</content>
+  <content>Constant.ЧасовойПоясОбластиДанных</content>
+  <content>Constant.ПрефиксОбластиДанных</content>
+  <content>CommonModule.ОчередьЗаданийСлужебныйРазделениеДанных</content>
+  <content>Catalog.ОчередьЗаданийОбластейДанных</content>
+  <content>EventSubscription.КонтрольНеразделенныхОбъектовПриЗаписи</content>
+  <content>EventSubscription.КонтрольНеразделенныхНаборовЗаписейПриЗаписи</content>
+  <content>Catalog.СообщенияОбластейДанных</content>
+  <content>CommonAttribute.ОбластьДанныхВспомогательныеДанные</content>
+  <content>InformationRegister.ОбластиДанных</content>
+  <content>CommonModule.РаботаВМоделиСервисаКлиент</content>
+  <content>InformationRegister.РейтингАктивностиОбластейДанных</content>
+  <content>187721e5-0b90-491a-bf15-dae4127f89bd</content>
+  <parentSubsystem>Subsystem.СтандартныеПодсистемы.Subsystem.РаботаВМоделиСервиса</parentSubsystem>
+</mdclass:Subsystem>
