@@ -34,6 +34,14 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <languages uuid="aedc892e-dfa6-4f52-bca7-62912987e3d8">
+    <name>Украинский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Украинский</value>
+    </synonym>
+    <languageCode>uk</languageCode>
+  </languages>
   <subsystems>Subsystem.Администрирование</subsystems>
   <subsystems>Subsystem.ПодключаемыеОтчетыИОбработки</subsystems>
   <subsystems>Subsystem.СтандартныеПодсистемы</subsystems>
