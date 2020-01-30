@@ -30,14 +30,15 @@ End Sub
 
 Sub НайтиГиперссылку()
 Static curHL As LongLong
-Dim lastHL As LongLong, aHyperLink As Hyperlink
+Dim lastHL As LongLong, aHyperLink As Hyperlink, aLink As String
+    aLink = "https://its.1c.ru/db/content/v8std"
 'curHL = 1
     If IsEmpty(curHL) Or (curHL = 0) Then curHL = 1
 '    For Each aHyperLink In ActiveDocument.Hyperlinks
     lastHL = ActiveDocument.Hyperlinks.Count - 1
     For i = curHL To lastHL
         Set aHyperLink = ActiveDocument.Hyperlinks(i)
-        If InStr(LCase(aHyperLink.Address), "https://its.1c.ua/db/content/v8std") <> 0 Then
+        If InStr(LCase(aHyperLink.Address), aLink) <> 0 Then
             aHyperLink.Range.Select
             ActiveWindow.ScrollIntoView Selection.Range
             curHL = i + 1
