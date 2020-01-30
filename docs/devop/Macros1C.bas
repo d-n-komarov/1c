@@ -31,9 +31,12 @@ End Sub
 Sub НайтиГиперссылку()
 Static curHL As LongLong
 Dim lastHL As LongLong, aHyperLink As Hyperlink, aLink As String
-    aLink = "https://its.1c.ru/db/content/v8std"
-'curHL = 1
+'''    aLink = "https://its.1c.ru/db/content/v8std"
+    aLink = "https://its.1c.ua/db/content/pubextensions/"
+    
+'''    curHL = 1
     If IsEmpty(curHL) Or (curHL = 0) Then curHL = 1
+
 '    For Each aHyperLink In ActiveDocument.Hyperlinks
     lastHL = ActiveDocument.Hyperlinks.Count - 1
     For i = curHL To lastHL
@@ -42,7 +45,9 @@ Dim lastHL As LongLong, aHyperLink As Hyperlink, aLink As String
             aHyperLink.Range.Select
             ActiveWindow.ScrollIntoView Selection.Range
             curHL = i + 1
-            aHyperLink.Follow
+'''
+'''            aHyperLink.Follow
+'''
             Exit For
         End If
 '    Next aHyperLink
