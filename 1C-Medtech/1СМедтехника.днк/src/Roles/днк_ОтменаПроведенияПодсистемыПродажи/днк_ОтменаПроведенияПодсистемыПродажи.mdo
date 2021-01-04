@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Role xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="921e8ecb-9c0d-4dd4-a56f-a6ddc296ecb2">
+  <name>днк_ОтменаПроведенияПодсистемыПродажи</name>
+  <synonym>
+    <key>ru</key>
+    <value>(днк) Отмена проведения подсистемы продажи</value>
+  </synonym>
+</mdclass:Role>

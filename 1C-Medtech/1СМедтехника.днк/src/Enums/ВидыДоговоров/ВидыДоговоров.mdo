@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="6498020a-9175-4eeb-b554-545ed3d01418">
+  <producedTypes>
+    <refType typeId="332e74d6-327a-4f96-b3bf-21975336363e" valueTypeId="1e50fff7-c1d8-47f9-9f3c-18e9eb930096"/>
+    <listType typeId="46345882-386b-4aaf-b2d0-32b07205b6e9" valueTypeId="0c780094-87c4-45e6-812e-a575eff9e268"/>
+    <managerType typeId="3d0672b1-16c2-4e76-b4b3-e0e3ffcb164d" valueTypeId="9c654b86-45e4-4ddf-8b8c-28e5487ddc22"/>
+  </producedTypes>
+  <name>ВидыДоговоров</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:EnumExtension"/>
+  <enumValues uuid="ebfe093b-d25e-4589-a9e1-3a1c1b397b4f">
+    <name>СПокупателем</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="fdc22f1a-247c-4f00-852d-a386e8eb1aeb">
+    <name>СПоставщиком</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="36340b80-a6c8-464c-9c97-c3ca8de47fb6">
+    <name>Прочее</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+</mdclass:Enum>

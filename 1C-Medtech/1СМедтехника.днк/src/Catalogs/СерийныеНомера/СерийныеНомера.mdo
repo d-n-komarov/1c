@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="07d54e25-4abe-49e7-907d-71d649501519">
+  <producedTypes>
+    <objectType typeId="68e0b429-bb9d-4686-b6b6-c52bbe4f1dd9" valueTypeId="a366ecff-d46c-4bb7-8eb3-64bcb00a2808"/>
+    <refType typeId="c4ec4fa7-1dd0-4f48-9671-33df0a18aa92" valueTypeId="cdb32238-ffc4-4e83-9d1d-daf6fb68ac1b"/>
+    <selectionType typeId="71e747dc-8560-4b1d-acae-4711b7582c0a" valueTypeId="cd35eaf3-a8c7-4521-8868-bf5222d089ab"/>
+    <listType typeId="b32f6395-15d9-4846-a6cb-62ea435b8713" valueTypeId="3c0925a7-6fac-4105-adb5-515f36d6156e"/>
+    <managerType typeId="c925e704-7e7e-451e-9de9-89c57fc536d3" valueTypeId="5053c1de-3fbf-4ed2-8152-8b2e94c73c60"/>
+  </producedTypes>
+  <name>СерийныеНомера</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension"/>
+</mdclass:Catalog>

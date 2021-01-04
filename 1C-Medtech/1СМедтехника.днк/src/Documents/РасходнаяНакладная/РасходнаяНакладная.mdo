@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="90d80745-5a22-4867-8e45-340b1f4c2b84">
+  <producedTypes>
+    <objectType typeId="e5114a06-5ccd-4471-b971-575073be39a0" valueTypeId="2a3cdc65-94c0-4822-a496-02daf7908c7f"/>
+    <refType typeId="b4b99456-4f66-4320-a797-a22594c68f4d" valueTypeId="4a8e5961-df28-4dee-86ca-7e43027bcaa7"/>
+    <selectionType typeId="a8d66656-ae71-4b99-b1b5-656a14ad0c82" valueTypeId="d0f48ae7-993a-4cd5-8d75-11fe57415c9b"/>
+    <listType typeId="02e52b09-cde9-444e-befe-d486f0371a53" valueTypeId="5c50bbfc-5ec0-4d8d-81c4-09b51ba81172"/>
+    <managerType typeId="addb72c4-c7bd-4547-9210-374516024e17" valueTypeId="644c8cce-9b63-4b61-b645-aaee9e40c3fb"/>
+  </producedTypes>
+  <name>РасходнаяНакладная</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DocumentExtension"/>
+</mdclass:Document>

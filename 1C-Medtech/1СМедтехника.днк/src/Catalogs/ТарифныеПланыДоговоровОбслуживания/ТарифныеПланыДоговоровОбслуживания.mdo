@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="19df8c5c-4933-4aba-abed-ea278e689d7e">
+  <producedTypes>
+    <objectType typeId="d2826f6d-4e31-4600-8160-fca36b26b33b" valueTypeId="1d2dbf50-191f-41cf-8df6-9e5e925b6b5f"/>
+    <refType typeId="bbf42499-0991-478e-a238-668a12a36f63" valueTypeId="52e79185-4a37-4670-a025-5b9939ed68ff"/>
+    <selectionType typeId="02678e2a-b97b-4984-a700-7e6e88e66d31" valueTypeId="388e5f41-9b0c-42f8-9188-fd163f71f341"/>
+    <listType typeId="3286fea6-73d2-41ff-8607-3aca1528037d" valueTypeId="a46a28c6-1063-4a37-b4b3-99bbe65fa5e3"/>
+    <managerType typeId="50c84dee-e4a2-4402-bc8f-04a070a65068" valueTypeId="638656e5-a4c0-4f8c-a8f2-39f77975dba4"/>
+  </producedTypes>
+  <name>ТарифныеПланыДоговоровОбслуживания</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension"/>
+</mdclass:Catalog>

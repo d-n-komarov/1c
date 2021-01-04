@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="6cae071e-622f-4d66-89b5-8361ff4c774b">
+  <producedTypes>
+    <objectType typeId="4eff7a4b-60af-415c-8fad-6b7740a07ae5" valueTypeId="0b9c1076-739d-4f22-bc2b-5897dc73f83e"/>
+    <refType typeId="16d7ad24-bec3-4f00-a835-7cf81ab28340" valueTypeId="a8b09d02-05a0-4fa8-940c-6d125bbe938f"/>
+    <selectionType typeId="15062316-ee27-4da0-9cbe-41fef4291f82" valueTypeId="852be71b-32f4-4d99-8774-6e04a550ab22"/>
+    <listType typeId="dc58e403-a973-4a4d-b998-91ac31dfe9ac" valueTypeId="a7ba267f-0800-48f5-aa9d-c27373380a2a"/>
+    <managerType typeId="412e4332-0cb5-4bd2-97cc-0b2eaeb2ed02" valueTypeId="fa9af9fa-6016-407d-89d3-4afb8d039077"/>
+  </producedTypes>
+  <name>ПунктыВыдачиЗаказа</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension"/>
+</mdclass:Catalog>

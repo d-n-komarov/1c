@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="93b78cb3-1e24-4ee5-9b08-ade9155cf158">
+  <producedTypes>
+    <objectType typeId="6f21345d-a818-476d-a81e-fa008ae96441" valueTypeId="9cf5b320-7510-4b20-b105-9aca1cdef6e5"/>
+    <refType typeId="bc9e2d85-f22a-49e2-a05a-eb5958749d66" valueTypeId="35655295-134d-48b8-9202-1338765615a0"/>
+    <selectionType typeId="cf3bae59-3348-4866-af2d-dbee26becf70" valueTypeId="7dba0371-1cc7-447f-a4bd-f25eb432ee04"/>
+    <listType typeId="244e0a6b-5763-4399-bb7a-1affd7353a55" valueTypeId="13a71c92-c79b-42c5-805a-88cf89e6c67c"/>
+    <managerType typeId="cc5e64ed-1ecc-448d-967b-f2c2313bc923" valueTypeId="bd9fa073-52fa-4b0f-bef8-dea09126aa60"/>
+  </producedTypes>
+  <name>Событие</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DocumentExtension"/>
+</mdclass:Document>

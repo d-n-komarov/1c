@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="c9216945-a1cd-4ef1-8987-d695b558957f">
+  <producedTypes>
+    <refType typeId="c4987bac-f02c-4336-a1b7-8ef62ab6c681" valueTypeId="af98c947-3452-46c4-8b41-b8fbf3a12ac8"/>
+    <listType typeId="9b90010e-2886-4dc7-b60a-049320668ec8" valueTypeId="323dbc83-a7a0-4b25-917f-f29905da51e3"/>
+    <managerType typeId="4081761a-8be1-4246-96e8-fae056635764" valueTypeId="2851dca3-1bba-44b4-974a-8a6cd3f5925d"/>
+  </producedTypes>
+  <name>ТипыСчетов</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:EnumExtension"/>
+  <enumValues uuid="63ef8066-0804-460a-83c9-5ba99d9a8d6e">
+    <name>НезавершенноеПроизводство</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+</mdclass:Enum>

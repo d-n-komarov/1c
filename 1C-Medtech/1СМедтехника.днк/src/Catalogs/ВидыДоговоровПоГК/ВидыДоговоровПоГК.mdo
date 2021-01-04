@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="70189522-76cb-4a91-a2fc-4319af2f3a10">
+  <producedTypes>
+    <objectType typeId="d2cc01c5-73b1-47ee-bbdc-b96e0ca79bb3" valueTypeId="36f6aa19-d2a1-4306-990b-a157a2132c2e"/>
+    <refType typeId="c223b11b-29b2-4092-9a2d-daeca50e679d" valueTypeId="ffd3c99d-277b-4607-8a76-c061283a3cac"/>
+    <selectionType typeId="27cc52e0-ec3d-485f-8412-0aef6bcb2fb8" valueTypeId="45e38733-3ee4-4885-bc6d-c951e0f142b4"/>
+    <listType typeId="af5f5ad2-413a-4c3b-9cc8-5aea140cb913" valueTypeId="4fc2b38f-33d1-49c1-88c0-a52a782af050"/>
+    <managerType typeId="e65749d0-2374-441d-95fc-c6974c63f35a" valueTypeId="ce4997f7-5efe-40c9-98ff-822befafda9f"/>
+  </producedTypes>
+  <name>ВидыДоговоровПоГК</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension"/>
+</mdclass:Catalog>

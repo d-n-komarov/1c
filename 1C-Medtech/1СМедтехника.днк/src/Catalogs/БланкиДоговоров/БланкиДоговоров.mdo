@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="b068c2f1-60b3-48f5-9453-58f775f48b1e">
+  <producedTypes>
+    <objectType typeId="b3c64cfe-1ab8-4b28-b4d6-7f19159fc276" valueTypeId="6a77b91d-c9f4-44ea-ab8c-1d1921cfff61"/>
+    <refType typeId="2a53e683-d003-44df-b87f-67a2d8151f49" valueTypeId="84f3539d-d682-4751-a376-658693589f8c"/>
+    <selectionType typeId="51e88b7d-b9ea-4cf0-a54c-aeaf976e3c33" valueTypeId="f7821d85-9089-4fed-9707-227a7a9c573b"/>
+    <listType typeId="6c33c1e2-e3d0-498b-a463-8f6cdca60093" valueTypeId="a70cfbca-f755-4719-b709-945048f502f6"/>
+    <managerType typeId="800ba91f-7378-4891-ab81-35a5d298ad71" valueTypeId="8bd7068e-0c86-44b1-a908-2d9e0e08e163"/>
+  </producedTypes>
+  <name>БланкиДоговоров</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension"/>
+</mdclass:Catalog>

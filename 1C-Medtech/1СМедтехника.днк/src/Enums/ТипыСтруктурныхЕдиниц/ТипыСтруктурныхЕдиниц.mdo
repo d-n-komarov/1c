@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="7d673e75-b149-46ee-a207-04fb919e593f">
+  <producedTypes>
+    <refType typeId="eec90147-521d-455f-b229-2758c2aca755" valueTypeId="10a58266-f772-4d9a-8ede-fde3fa0fe916"/>
+    <listType typeId="694dcb69-d17f-4e79-b871-ebfd22d26ed3" valueTypeId="4a466c11-cc51-4004-89d4-a966eaee45ad"/>
+    <managerType typeId="0d3be22c-2a07-4824-aedb-2a92500c05d7" valueTypeId="1417f861-4df9-4b30-bc7a-5a8fd47cdfb1"/>
+  </producedTypes>
+  <name>ТипыСтруктурныхЕдиниц</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:EnumExtension"/>
+  <enumValues uuid="18fd7f27-354b-4818-b0c4-155ee3848a11">
+    <name>Склад</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+</mdclass:Enum>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="6cbedbc3-cf24-470e-a688-17aa7850ca1f">
+  <producedTypes>
+    <refType typeId="25659a79-13ed-4577-97a5-17919d52a45a" valueTypeId="4261983a-02ac-4c6f-86f1-4b6f6fd69b6a"/>
+    <listType typeId="4ee16c36-b4f2-4ea7-9727-e07d4e3b39ee" valueTypeId="453bc255-2713-4974-b26d-34acd4e24d52"/>
+    <managerType typeId="9f30e9ba-ef21-4cfe-b24d-b10ef568cc5a" valueTypeId="cdf543ca-b21c-4836-93c3-a13e64bb3143"/>
+  </producedTypes>
+  <name>СпособыДоставки</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:EnumExtension"/>
+  <enumValues uuid="8089fb63-51ff-42bb-b133-3de81a331bee">
+    <name>Курьер</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="7ccf1f0a-8b8c-474d-9c3e-d32ecc1abdc2">
+    <name>Самовывоз</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="32ba1a0b-9691-4eb7-a970-3a0665d785ba">
+    <name>ПунктВыдачи</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="9b033418-3e49-429c-afc5-043f8b98246a">
+    <name>Почта</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+</mdclass:Enum>

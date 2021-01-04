@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="27ed3d4b-d323-440c-ba8f-b3a73f336025">
+  <producedTypes>
+    <refType typeId="a6c4f84a-2cf4-4297-a7a1-61b52d2bb900" valueTypeId="7394cfc4-6511-4db5-aa39-9e26ac35d42a"/>
+    <listType typeId="637601bb-e800-4e72-85de-619d11f90c67" valueTypeId="6286542a-2489-4434-856d-22eae3c7f1bb"/>
+    <managerType typeId="e3bf7a04-acae-4d6a-b8d0-4336cda01fda" valueTypeId="cac963f7-709a-4273-b93c-a5378bb09a36"/>
+  </producedTypes>
+  <name>ВидыКонтрагентов</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:EnumExtension"/>
+  <enumValues uuid="bfd199e9-41d3-4646-8c60-89f41e3b1bc3">
+    <name>ЮридическоеЛицо</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="f2613d2f-e536-453f-8039-650b7067d318">
+    <name>ИндивидуальныйПредприниматель</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="3e8e6f86-0f59-414d-8bf0-17c5cba42aa9">
+    <name>ФизическоеЛицо</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+</mdclass:Enum>

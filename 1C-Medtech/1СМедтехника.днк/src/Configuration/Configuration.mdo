@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="9e9a22c5-685e-48d4-81bc-386e12022e95">
+  <name>днк</name>
+  <synonym>
+    <key>ru</key>
+    <value>ДНК</value>
+  </synonym>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:ConfigurationExtension">
+    <defaultRunMode>Checked</defaultRunMode>
+    <usePurposes>Checked</usePurposes>
+    <defaultLanguage>Checked</defaultLanguage>
+    <interfaceCompatibilityMode>Checked</interfaceCompatibilityMode>
+    <compatibilityMode>Checked</compatibilityMode>
+  </extension>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="623bfd5e-fa88-40f7-b099-09819514b9eb"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="b0dd0852-bc87-4564-b578-a0c04f387042"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="c2bbbbfc-bcf3-4857-a722-fcc8ffe78d5e"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="944a6076-bfbf-4f13-b112-bc7d18c4de4a"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="311ed578-9a56-4af5-b3b3-96d1430e1437"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="191a0787-49f5-48a1-9198-3cb3241281b4"/>
+  <namePrefix>днк_</namePrefix>
+  <configurationExtensionCompatibilityMode>8.3.12</configurationExtensionCompatibilityMode>
+  <configurationExtensionPurpose>Customization</configurationExtensionPurpose>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <vendor>Комаров ДН</vendor>
+  <version>0.99.8.3.12</version>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <interfaceCompatibilityMode>TaxiEnableVersion8_2</interfaceCompatibilityMode>
+  <compatibilityMode>8.3.12</compatibilityMode>
+  <languages uuid="f449e836-373e-4a3d-9b67-dc300c19e87e">
+    <name>Русский</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:LanguageExtension">
+      <languageCode>Checked</languageCode>
+    </extension>
+    <languageCode>ru</languageCode>
+  </languages>
+  <styleItems>StyleItem.ИтогиФонГруппы</styleItems>
+  <styleItems>StyleItem.ТекстВторостепеннойНадписи</styleItems>
+  <styleItems>StyleItem.ФонУправляющегоПоля</styleItems>
+  <styleItems>StyleItem.ЦветГиперссылки</styleItems>
+  <styleItems>StyleItem.ЦветШрифтаНаименованияПоля</styleItems>
+  <styleItems>StyleItem.ПоясняющийТекст</styleItems>
+  <styleItems>StyleItem.КрасныйТекстСтрок</styleItems>
+  <commonPictures>CommonPicture.СтрелкаВлевоСплошная</commonPictures>
+  <commonPictures>CommonPicture.РазделКомпания</commonPictures>
+  <commonPictures>CommonPicture.РазделАдминистрирование</commonPictures>
+  <commonPictures>CommonPicture.СтрелкаВправоСплошная</commonPictures>
+  <commonPictures>CommonPicture.Начало</commonPictures>
+  <commonPictures>CommonPicture.РазделДеньги</commonPictures>
+  <commonPictures>CommonPicture.РазделЗарплата</commonPictures>
+  <commonPictures>CommonPicture.РазделЗакупки</commonPictures>
+  <commonPictures>CommonPicture.Набор</commonPictures>
+  <commonPictures>CommonPicture.КонтактнаяИнформацияЕмэйл</commonPictures>
+  <commonPictures>CommonPicture.ПодчиненныеЭлементы</commonPictures>
+  <commonPictures>CommonPicture.КонтактнаяИнформацияТелефон</commonPictures>
+  <commonPictures>CommonPicture.ВниманиеВВидеТреугольника</commonPictures>
+  <commonPictures>CommonPicture.ДлительнаяОперация16</commonPictures>
+  <commonPictures>CommonPicture.Предупреждение32</commonPictures>
+  <commonPictures>CommonPicture.ЗаполнитьПоОснованию</commonPictures>
+  <roles>Role.ДобавлениеИзменениеВозвратовПоставщикам</roles>
+  <roles>Role.ДобавлениеИзменениеПодсистемыЗакупки</roles>
+  <roles>Role.ДобавлениеИзменениеПодсистемыПродажи</roles>
+  <roles>Role.днк_ОтменаПроведенияПодсистемыПродажи</roles>
+  <commonModules>CommonModule.РегламентированныеДанныеКлиентСервер</commonModules>
+  <commonModules>CommonModule.днкРегламентированныеДанныеКлиентСервер</commonModules>
+  <definedTypes>DefinedType.Вес</definedTypes>
+  <definedTypes>DefinedType.Объем</definedTypes>
+  <commonCommands>CommonCommand.СтруктураПодчиненности</commonCommands>
+  <commonCommands>CommonCommand.ОтчетПоДвижениям</commonCommands>
+  <commonCommands>CommonCommand.Напомнить</commonCommands>
+  <commonCommands>CommonCommand.ОтправитьПоЭлектроннойПочте</commonCommands>
+  <commonCommands>CommonCommand.ИсторияИзменений</commonCommands>
+  <commonCommands>CommonCommand.ДополнительныеСведенияКоманднаяПанель</commonCommands>
+  <catalogs>Catalog.БанковскиеСчета</catalogs>
+  <catalogs>Catalog.БланкиДоговоров</catalogs>
+  <catalogs>Catalog.Валюты</catalogs>
+  <catalogs>Catalog.ВидыДоговоровПоГК</catalogs>
+  <catalogs>Catalog.ВидыСкидокНаценок</catalogs>
+  <catalogs>Catalog.ВидыЦен</catalogs>
+  <catalogs>Catalog.ВидыЦенКонтрагентов</catalogs>
+  <catalogs>Catalog.ДоговорыКонтрагентов</catalogs>
+  <catalogs>Catalog.ЗоныТарифыДоставки</catalogs>
+  <catalogs>Catalog.Кассы</catalogs>
+  <catalogs>Catalog.КассыККМ</catalogs>
+  <catalogs>Catalog.Контрагенты</catalogs>
+  <catalogs>Catalog.НаправленияДеятельности</catalogs>
+  <catalogs>Catalog.Номенклатура</catalogs>
+  <catalogs>Catalog.Организации</catalogs>
+  <catalogs>Catalog.ПартииНоменклатуры</catalogs>
+  <catalogs>Catalog.Пользователи</catalogs>
+  <catalogs>Catalog.ПричиныОтменыЗаказа</catalogs>
+  <catalogs>Catalog.Проекты</catalogs>
+  <catalogs>Catalog.ПунктыВыдачиЗаказа</catalogs>
+  <catalogs>Catalog.СлужбыДоставки</catalogs>
+  <catalogs>Catalog.Сотрудники</catalogs>
+  <catalogs>Catalog.Спецификации</catalogs>
+  <catalogs>Catalog.СтавкиНДС</catalogs>
+  <catalogs>Catalog.СтатьиДвиженияДенежныхСредств</catalogs>
+  <catalogs>Catalog.СтруктурныеЕдиницы</catalogs>
+  <catalogs>Catalog.ТарифныеПланыДоговоровОбслуживания</catalogs>
+  <catalogs>Catalog.ФизическиеЛица</catalogs>
+  <catalogs>Catalog.ХарактеристикиНоменклатуры</catalogs>
+  <catalogs>Catalog.СерийныеНомера</catalogs>
+  <catalogs>Catalog.Ячейки</catalogs>
+  <documents>Document.ДополнительныеРасходы</documents>
+  <documents>Document.РасходнаяНакладная</documents>
+  <documents>Document.ЗаказПокупателя</documents>
+  <documents>Document.Событие</documents>
+  <documents>Document.ЗаказПоставщику</documents>
+  <documents>Document.ПриходнаяНакладная</documents>
+  <enums>Enum.ТипыСтруктурныхЕдиниц</enums>
+  <enums>Enum.ТипыСчетов</enums>
+  <enums>Enum.СпособыДоставки</enums>
+  <enums>Enum.ВидыКонтрагентов</enums>
+  <enums>Enum.ТипыДенежныхСредств</enums>
+  <enums>Enum.ВариантыЗаполненияРасшифровкиПлатежа</enums>
+  <enums>Enum.ВариантыЗавершенияЗаказа</enums>
+  <enums>Enum.СпособыЗачетаИРаспределенияПлатежей</enums>
+  <enums>Enum.ВидыОперацийЗаказПокупателя</enums>
+  <enums>Enum.ВидыДоговоров</enums>
+  <enums>Enum.БиллингПериодичностьДоговораОбслуживания</enums>
+  <enums>Enum.ВидыОперацийПриходнаяНакладная</enums>
+  <dataProcessors>DataProcessor.ПомощникВводаНачальныхОстатков</dataProcessors>
+  <dataProcessors>DataProcessor.НастройкаПрограммы</dataProcessors>
+</mdclass:Configuration>

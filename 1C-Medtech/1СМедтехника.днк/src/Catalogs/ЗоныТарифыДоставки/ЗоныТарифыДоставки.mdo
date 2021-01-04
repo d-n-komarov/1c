@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="3e0fca86-0bae-4a31-a706-515a21ae4695">
+  <producedTypes>
+    <objectType typeId="c7eeba57-cd4b-466b-822f-717d4a2142e2" valueTypeId="ad3e12fd-e778-4846-92fd-7e991bc0d19a"/>
+    <refType typeId="ba36f961-ec34-45f7-8382-5d0ad4523cdd" valueTypeId="a77a93cf-90bc-4583-923b-a08e50aa2adf"/>
+    <selectionType typeId="118eda50-8b0f-4ab6-ab3d-dedf2be2c328" valueTypeId="deb46199-ab82-4997-adbe-efab6125a942"/>
+    <listType typeId="3bee7a03-1ef8-4f07-bbbc-6d6e0b947dc5" valueTypeId="e101f4a4-e98b-4466-aa41-5d349600d302"/>
+    <managerType typeId="cfcf9a1b-e86f-4027-b1ea-7adb7cd235ab" valueTypeId="0653b319-9351-4cbc-bb38-7db6b61e9293"/>
+  </producedTypes>
+  <name>ЗоныТарифыДоставки</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension"/>
+</mdclass:Catalog>
